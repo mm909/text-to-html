@@ -1,0 +1,11 @@
+.wrapper {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
+.outputWrapper {
+  border-style: solid;
+  border-radius: 10px;
+  min-height: 500px;
+}
