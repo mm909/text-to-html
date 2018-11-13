@@ -1,5 +1,5 @@
 jQuery(document).ready(function() {
-  $("#output").html("Type some HTML code above!");
+  $("#output").html(" <h1> Type some HTML code above! </h1>");
   $("#input").on('keyup', processNewText);
 });
 
